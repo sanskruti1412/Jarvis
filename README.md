@@ -63,4 +63,3 @@ Requests (for fetching news)
 📜 License
 This project is open-source under the MIT License.
 
-This README.md is GitHub-friendly and provides clear instructions! Let me know if you need modifications. 🚀😃
